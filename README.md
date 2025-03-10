@@ -1,4 +1,4 @@
-# Topic: Predicting Traffic Safety of Chicago Streets Based on Frequency &amp; Severity of Accidents
+# Predicting Traffic Safety of Chicago Streets Based on Frequency &amp; Severity of Accidents
 
 _____
 
